@@ -26,6 +26,14 @@ Gene biotype
 Gene ID
 Species of RNA
 
+**ac4c (ours + Arrango data):Part3**
+Sample name
+Acetylated
+Intensity of Peak
+Gene biotype
+Gene ID
+Species of RNA
+
 **m6a**
 Sample name
 Condition 1
