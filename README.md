@@ -10,26 +10,26 @@ Pathway
 Splices
 
 **ac4c (ours + Arrango data):Part1**
+Gene ID
+Chr_Start.pos_end.pos
 Sample name
 Acetylated/Non-acetylated
 Intensity of Peak
 Gene biotype
-Gene ID
 Species of RNA
 
-**ac4c (ours + Arrango data):Part2**
+**ac4c (ours + Arrango data):Part2** Non-acetylated
+Gene ID
+Chr_Start.pos_end.pos
 Sample name
-Non-acetylated
 Nucleus/Nucleolous/mRNA
 Intensity of Peak
 Gene biotype
-Gene ID
 Species of RNA
 
-**ac4c (ours + Arrango data):Part3**
+**ac4c (ours + Arrango data):Part3** Acetylated
 Sample name
-Acetylated
-Intensity of Peak
+Peak density
 Gene biotype
 Gene ID
 Species of RNA
